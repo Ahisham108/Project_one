@@ -13,9 +13,9 @@ As you can find in this repository 3 csv files which include a cleaned version o
 * New York City.
 * Washington.
 
-And bikeshare_2.py file which include the script for the program.
+And bikeshare.py file which include the script for the program.
 
 ## How to use
-Simply run the script in ur terminal using `python bikeshare_2.py` and follow the instructions.
+Simply run the script in ur terminal using `python bikeshare.py` and follow the instructions.
 
 
